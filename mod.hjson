@@ -1,0 +1,9 @@
+name: "shotgun"
+displayName: "Everything Shotgun"
+author: MrDuck557
+description: "Everything that shoots bullet becomes shotgun"
+version: "1"
+minGameVersion: "126.2"
+dependencies: []
+hidden: false
+repo: MrDuck557/everything-shotgun
